@@ -1,0 +1,101 @@
+.xx{
+    background-color: #1D2224;
+}
+
+.pp{
+    background-color: #FF324D;
+    padding-top: 15px;
+}
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.oo{
+    box-shadow: 0 .125rem .25rem rgba(0,0,0,.075)!important;
+}
+.logo{
+    height: 50px;
+}
+.heading{
+    display: flex;
+}
+li{
+    list-style: none;
+    margin-bottom: 8px;
+    
+    
+}
+.footertext{
+    font-size: 14px;
+    color:#687188
+
+}
+.top-head{
+    font-size: 18px;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    
+}
+.small-img{
+    padding: 0px;
+
+}
+.image-near{
+    height: 50px;
+}
+.subs-button{
+    height: 50px;
+    width: 130px;
+    border-radius: 0;
+    background-color: #FF324D;
+}
+.price{
+    color: #FF324D;
+    font-weight: 500;
+}
+.old-price{
+    color: #388E3C;
+}
+.details{
+    margin-left: 10px;
+}
+.jj{
+    
+    height: 282px;
+   
+
+
+}
+
+
+.ppp{
+    height: 100%;
+    width: 100%;
+}
+.top-footer{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.input-newsletter{
+    width: 60%;
+    height: 50px;
+}
+.ExHeading{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+footer{
+    
+    background-color: #f7f8fb !important;
+}
+.subs{
+    background-color: #1D2224 !important;
+
+}
+.inner-img{
+    height: 85px;
+    width: 85px;
+}
